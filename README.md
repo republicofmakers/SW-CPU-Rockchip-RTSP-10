@@ -1,1 +1,1 @@
-# SW-CPU-Rockchip-RTSP-10
+# SW-CPU-Rockchip-VideoStream-10
